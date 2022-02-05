@@ -47,6 +47,11 @@ Then Run `repo sync`
 ```
 `# = No. of CPU threads of your PC'
 
+#  Kernel Source here
+
+ Kernel Source from which the prebuilt kernel is built is here, twrp-6.0 branch.
+ `https://github.com/akhil1999/android_kernel_samsung_k3gxx`
+
 ### Thanks to:
  * Me, akhil1999
  * TeamWin
